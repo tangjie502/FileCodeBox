@@ -52,12 +52,6 @@ DEFAULT_CONFIG = {
     "uploadCount": 10,
     "themesChoices": [
         {
-            "name": "2023",
-            "key": "themes/2023",
-            "author": "Lan",
-            "version": "1.0",
-        },
-        {
             "name": "2024",
             "key": "themes/2024",
             "author": "Lan",
