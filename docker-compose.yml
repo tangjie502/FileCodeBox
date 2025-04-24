@@ -1,7 +1,7 @@
 version: "3"
 services:
   file-code-box:
-    image: tuomasi502/filecodebox:2.3
+    image: tuomasi502/filecodebox:latest
     volumes:
       - fcb-data:/app/data:rw
     restart: unless-stopped
